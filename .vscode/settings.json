@@ -1,0 +1,6 @@
+{
+    "[rust]": {
+        "editor.rulers": [100],
+        "editor.defaultFormatter": "rust-lang.rust-analyzer"
+    }
+}
